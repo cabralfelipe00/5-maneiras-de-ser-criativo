@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Trabalho</string>
+    <string name="action_settings">Settings</string>
+    <string name="voltar_botao">voltar</string>
+    <string name="prox_bptao">proximo</string>
+    <string name="tema">A criatividade faz parte da sua vida?
+    </string>
+    <string name="texto">Sim? Não? De acordo com a cultura moderna são poucos os que nascem com esse misterioso recurso.  Artistas, designers, arquitetos, até empreendedores e administradores são rotulados como abençoados pela natureza, mas não é bem assim.
+    O que muitos não sabem é que a criatividade é nada mais nada menos que uma habilidade, podendo sim treinar, estimular e desenvolve-la como qualquer outra que possuímos, o “segredo” é fazer dela parte da sua vida e do seu dia a dia.
+    </string>
+
+
+    <string name="tema2">Procure por algo novo, que você nunca fez!</string>
+    <string name="texto2">A criatividade sempre aparece quando você se aventura fora da sua zona de conforto, e aprende algo novo. Que tal aprender a tocar um instrumento, uma nova língua ou quem sabe até a cozinhar?  O aumento do seu repertório de conhecimento geral estimula sua mente estar sempre aberta e buscar insights e inspiração de muitos lugares diferentes.</string>
+
+
+    <string name="tema3"> Crie o ambiente certo a sua volta.</string>
+    <string name="texto3">Qualquer pessoa pode ser ou se tornar criativa, você apenas precisa do estimulo certo, no ambiente certo. Veja as crianças, por exemplo, elas são muito criativas porque ainda não conhecem nenhuma limitação critica imposta por outras pessoas, tendo então a mente livre e solta para pensar que qualquer coisa é possível. Grandes empresas como o Google, Facebook , entre outras, possuem inúmeras outras atividades como: esportes, áreas de descanso e até vídeo game, em outras palavras, elas criam um ambiente leve que manda embora o estresse e a pressão do dia-a-dia, deixando assim os funcionários mais calmos e confortáveis para trabalhar em suas idéias com clareza e sem limitações.</string>
+
+     <string name="tema4">De uma pausa no Brainstorming e se mexa um pouco.</string>
+     <string name="texto4">A velha guarda sempre nos ensinou que discussões em grupo é sempre uma boa ferramenta quando o assunto é gerar novas ideias, conceitos ou até solucionar problemas, porém novas pesquisas apontam que nem sempre essa técnica é precisa.
+Ao invés de forçar a mente, tente outra coisa, saia para dar uma volta, mexa-se um pouco. Ficar no mesmo ambiente, quebrando a cabeça, só aumenta a tensão e o nervosismo, deixando as boas ideias ainda mais longe. Estar em movimento e mudar de lugar, pode te fazer olhar a mesma situação de perspectivas diferentes, abrindo assim, a mente para outras possibilidades.</string>
+
+     <string name="tema5">Deixe os brinquedos na mesa.</string>
+     <string name="texto5">Talvez nada possa ser mais estimulante para a criatividade do que fazer algo “físico” com as próprias mãos. Muitas empresas encorajam seus funcionários a trazer para o trabalho, Legos, Origamis, etc. Sair um pouco do teclado e mouse ajuda a deixar o processo criativo mais palpável.</string>
+
+    <string name="tema6">Tente o desafio dos 30 círculos.</string>
+    <string name="texto6">Aprender é bom, mas aprender se divertindo é ainda melhor.
+
+Pegue um pedaço de papel, desenhe 30 círculos dentro dele, durante 1 minuto. Tente transformar os círculos na maior quantidade de coisas possíveis. Exemplos, um circulo pode se tornar um sol, ou uma bola, ou até a lua. Quantos desenhos diferentes você consegue fazer em 1 minuto?
+Muitas pessoas têm dificuldades em atingir o objetivo do desafio. Isso ocorre, pois a mente adulta tende a ser muito crítica e se limitar. Tente fazer esse desafio com uma criança, os resultados podem ser impressionantes, justamente porque eles não possuem essa limitação. Frustrações a parte, a mecânica de jogo pode ser bem estimulante e divertida, além de cada vez mais aumentar seu repertório de possibilidades,
+criação, Criatividade, Design, inovação.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
